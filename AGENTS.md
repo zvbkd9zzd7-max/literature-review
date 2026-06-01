@@ -17,7 +17,7 @@
 
 ## 执行顺序
 
-1. 检查 papers 文件夹中是否有八篇论文。
+1. 检查literature-review文件夹中是否有八篇论文。
 2. 为每篇论文生成一个 Markdown 文献笔记，放入 literature_notes 文件夹。
 3. 每篇笔记包括：
    - 文章标题，期刊年份作者
